@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @queryDuan
-Sign out
-98
-2,642 1,255 tomasr/molokai
- Code  Issues 17  Pull requests 15  Projects 0  Wiki  Insights
-molokai/colors/molokai.vim
-db8ce13  on 12 Apr 2014
-@tomasr tomasr Merge pull request #34 from justinmk/master
-@tomasr @martijn @justinmk @justinforce @strycore @raichoo @ninjaaron @mathiasbynens @octol @jgelens @gko @fcharlier @rwmpelstilzchen @aaronjensen
-     
-277 lines (242 sloc)  9.91 KB
 " Vim color file
 "
 " Author: Tomas Restrepo <tomas@winterdom.com>
@@ -292,16 +274,3 @@ end
 " Must be at the end, because of ctermbg=234 bug.
 " https://groups.google.com/forum/#!msg/vim_dev/afPqwAFNdrU/nqh6tOM87QUJ
 set background=dark
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
