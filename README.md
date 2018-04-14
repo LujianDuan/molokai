@@ -13,8 +13,8 @@ By default, it has a dark gray background based on the version created by Hamish
 Use a plugin manager, i.e:
 
 * [Vundle](https://github.com/VundleVim/Vundle.vim)
-  * `Plugin 'ueaner/molokai'`
+  * `Plugin 'LujianDuan/molokai'`
 * [vim-plug](https://github.com/junegunn/vim-plug)
-  * `Plug 'ueaner/molokai'`
+  * `Plug 'LujianDuan/molokai'`
 
 or copy the file on your .vim/colors folder.
